@@ -3,4 +3,3 @@
 *.html linguist-detectable=false
 *.xml linguist-detectable=false
 *.jsp linguist-detectable=false
-*.rb linguist-language=Java
